@@ -24,11 +24,11 @@
             <tr>
                 <th scope="row">@item.Nombre</th>
                 <td>@item.Precio</td>
-                <td>@item.ImageFile</td>
+                <td><img class="img-fluid" src="/uploads/@item.ImageFile" width="100" alt="@item.ImageFile"></td>
                 <td>
                     <a asp-controller="Producto" asp-action="Edit" asp-route-id="@item.IdProducto" class="btn btn-primary">Editar</a>
 
-                    <form asp-controller="Porducto" asp-action="Destroy" asp-route-id="@item.IdProducto" method="POST">
+                    <form asp-controller="Producto" asp-action="Destroy" asp-route-id="@item.IdProducto" method="POST">
                         @* <input type="hidden" class="form-control" asp-for="IdEmpleado"> *@
                         <button class="btn btn-primary">Borrar</button>
                     </form>

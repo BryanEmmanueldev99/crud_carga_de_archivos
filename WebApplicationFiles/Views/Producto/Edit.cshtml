@@ -13,15 +13,17 @@
 @{
 }
 
-<h2>Actualizar producto</h2>
 
-<form asp-controller="Producto" asp-action="Store" enctype="multipart/form-data" method="POST">
+<form asp-controller="Producto" asp-action="Update" enctype="multipart/form-data" method="POST">
 
-    <h2>Agregar producto</h2>
+    <h2>Actualizar</h2>
 
     <div asp-validation-summary="ModelOnly" class="form-group text-danger"></div>
 
+    
+
     <div class="form-group">
+        <input hidden name="id" value="@ViewData["IdProducto"]" class="form-control-plaintext">
         <label for="">Nombre:</label>
         <input type="text" class="form-control" asp-for="Nombre">
         <span asp-validation-for="Nombre" class="text-danger"></span>
@@ -34,7 +36,9 @@
     </div>
 
     <div class="form-group">
+        
         <label for="">Subir imagen:</label>
+        <img class="img-fluid" src="/uploads/@ViewData["ImageFile"]" width="150" alt="@ViewData["ImageFile"]">
         <input type="file" class="form-control" asp-for="ImageFileUpload">
         <span asp-validation-for="ImageFileUpload" class="text-danger"></span>
     </div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QOppJw/7KNtUAcpHNpw3FuOQpxf2waQxvvzgN8DuROo=",
+  "Hash": "EUM/HDyQQxQ5Kn1IiH7xJFHQxzuMuppXdcAOiE6wVRk=",
   "Source": "WebApplicationFiles",
   "BasePath": "_content/WebApplicationFiles",
   "Mode": "Default",
@@ -1340,12 +1340,12 @@
       "OriginalItemSpec": "wwwroot\\uploads\\20250227194750918.jpg"
     },
     {
-      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195000941.webp",
+      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171111677.webp",
       "SourceId": "WebApplicationFiles",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\",
       "BasePath": "_content/WebApplicationFiles",
-      "RelativePath": "uploads/20250227195000941#[.{fingerprint}]?.webp",
+      "RelativePath": "uploads/20250228171111677#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1358,15 +1358,15 @@
       "Integrity": "t7mKAXfKz0MUiuD0+DNy3L48INqLhZcr643yqPyf/Ug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\20250227195000941.webp"
+      "OriginalItemSpec": "wwwroot\\uploads\\20250228171111677.webp"
     },
     {
-      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195211926.pdf",
+      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171314913.webp",
       "SourceId": "WebApplicationFiles",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\",
       "BasePath": "_content/WebApplicationFiles",
-      "RelativePath": "uploads/20250227195211926#[.{fingerprint}]?.pdf",
+      "RelativePath": "uploads/20250228171314913#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,11 +1375,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kcmq9rz265",
-      "Integrity": "XGcB165HdPSKLLy9yRv+4SXHjfL6Cy4aKd1zrXHIBvc=",
+      "Fingerprint": "pgdju1pn8u",
+      "Integrity": "F2Oml44TOEOiknMpSFJz54MI/bcej6VosJDGb9rs6yQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\20250227195211926.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\20250228171314913.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171604690.jpg",
+      "SourceId": "WebApplicationFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\",
+      "BasePath": "_content/WebApplicationFiles",
+      "RelativePath": "uploads/20250228171604690#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2si3msg5o6",
+      "Integrity": "LnjHm18VLifWK9k/Dv9qaPawQEnTq1ZG+ZuSyrtf3aQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20250228171604690.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228180616348.png",
+      "SourceId": "WebApplicationFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\",
+      "BasePath": "_content/WebApplicationFiles",
+      "RelativePath": "uploads/20250228180616348#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2or8ahl1b",
+      "Integrity": "qXJzk09Zm8V4PHFwmKuHwMg9FtXr0KvbCUl06VDh+Bw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20250228180616348.png"
+    },
+    {
+      "Identity": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228181227763.png",
+      "SourceId": "WebApplicationFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\",
+      "BasePath": "_content/WebApplicationFiles",
+      "RelativePath": "uploads/20250228181227763#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9u4d9q92wg",
+      "Integrity": "P0UnTbhUbSLX/70NjkYs/vDOkWfAJguLddDzBHY3V4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20250228181227763.png"
     }
   ],
   "Endpoints": [
@@ -6386,8 +6449,8 @@
       ]
     },
     {
-      "Route": "uploads/20250227195000941.350syezxh9.webp",
-      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195000941.webp",
+      "Route": "uploads/20250228171111677.350syezxh9.webp",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171111677.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6408,7 +6471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 01:50:00 GMT"
+          "Value": "Fri, 28 Feb 2025 23:11:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6422,7 +6485,7 @@
         },
         {
           "Name": "label",
-          "Value": "uploads/20250227195000941.webp"
+          "Value": "uploads/20250228171111677.webp"
         },
         {
           "Name": "integrity",
@@ -6431,8 +6494,8 @@
       ]
     },
     {
-      "Route": "uploads/20250227195000941.webp",
-      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195000941.webp",
+      "Route": "uploads/20250228171111677.webp",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171111677.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 01:50:00 GMT"
+          "Value": "Fri, 28 Feb 2025 23:11:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6468,8 +6531,8 @@
       ]
     },
     {
-      "Route": "uploads/20250227195211926.kcmq9rz265.pdf",
-      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195211926.pdf",
+      "Route": "uploads/20250228171314913.pgdju1pn8u.webp",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171314913.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6478,19 +6541,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "790218"
+          "Value": "145682"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/pdf"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"XGcB165HdPSKLLy9yRv+4SXHjfL6Cy4aKd1zrXHIBvc=\""
+          "Value": "\"F2Oml44TOEOiknMpSFJz54MI/bcej6VosJDGb9rs6yQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 01:52:11 GMT"
+          "Value": "Fri, 28 Feb 2025 23:13:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6500,21 +6563,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kcmq9rz265"
+          "Value": "pgdju1pn8u"
         },
         {
           "Name": "label",
-          "Value": "uploads/20250227195211926.pdf"
+          "Value": "uploads/20250228171314913.webp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XGcB165HdPSKLLy9yRv+4SXHjfL6Cy4aKd1zrXHIBvc="
+          "Value": "sha256-F2Oml44TOEOiknMpSFJz54MI/bcej6VosJDGb9rs6yQ="
         }
       ]
     },
     {
-      "Route": "uploads/20250227195211926.pdf",
-      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195211926.pdf",
+      "Route": "uploads/20250228171314913.webp",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171314913.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6523,29 +6586,275 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "790218"
+          "Value": "145682"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/pdf"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"XGcB165HdPSKLLy9yRv+4SXHjfL6Cy4aKd1zrXHIBvc=\""
+          "Value": "\"F2Oml44TOEOiknMpSFJz54MI/bcej6VosJDGb9rs6yQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 01:52:11 GMT"
+          "Value": "Fri, 28 Feb 2025 23:13:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XGcB165HdPSKLLy9yRv+4SXHjfL6Cy4aKd1zrXHIBvc="
+          "Value": "sha256-F2Oml44TOEOiknMpSFJz54MI/bcej6VosJDGb9rs6yQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228171604690.2si3msg5o6.jpg",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171604690.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LnjHm18VLifWK9k/Dv9qaPawQEnTq1ZG+ZuSyrtf3aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 23:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2si3msg5o6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/20250228171604690.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LnjHm18VLifWK9k/Dv9qaPawQEnTq1ZG+ZuSyrtf3aQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228171604690.jpg",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171604690.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LnjHm18VLifWK9k/Dv9qaPawQEnTq1ZG+ZuSyrtf3aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 23:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LnjHm18VLifWK9k/Dv9qaPawQEnTq1ZG+ZuSyrtf3aQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228180616348.png",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228180616348.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qXJzk09Zm8V4PHFwmKuHwMg9FtXr0KvbCUl06VDh+Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 00:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qXJzk09Zm8V4PHFwmKuHwMg9FtXr0KvbCUl06VDh+Bw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228180616348.x2or8ahl1b.png",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228180616348.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qXJzk09Zm8V4PHFwmKuHwMg9FtXr0KvbCUl06VDh+Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 00:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2or8ahl1b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/20250228180616348.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qXJzk09Zm8V4PHFwmKuHwMg9FtXr0KvbCUl06VDh+Bw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228181227763.9u4d9q92wg.png",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228181227763.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0UnTbhUbSLX/70NjkYs/vDOkWfAJguLddDzBHY3V4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 00:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9u4d9q92wg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/20250228181227763.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0UnTbhUbSLX/70NjkYs/vDOkWfAJguLddDzBHY3V4o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20250228181227763.png",
+      "AssetFile": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228181227763.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0UnTbhUbSLX/70NjkYs/vDOkWfAJguLddDzBHY3V4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 00:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0UnTbhUbSLX/70NjkYs/vDOkWfAJguLddDzBHY3V4o="
         }
       ]
     },

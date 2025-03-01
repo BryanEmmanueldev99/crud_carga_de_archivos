@@ -249,12 +249,24 @@
       "PackagePath": "staticwebassets\\uploads\\20250227194750918.jpg"
     },
     {
-      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195000941.webp",
-      "PackagePath": "staticwebassets\\uploads\\20250227195000941.webp"
+      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171111677.webp",
+      "PackagePath": "staticwebassets\\uploads\\20250228171111677.webp"
     },
     {
-      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250227195211926.pdf",
-      "PackagePath": "staticwebassets\\uploads\\20250227195211926.pdf"
+      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171314913.webp",
+      "PackagePath": "staticwebassets\\uploads\\20250228171314913.webp"
+    },
+    {
+      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228171604690.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20250228171604690.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228180616348.png",
+      "PackagePath": "staticwebassets\\uploads\\20250228180616348.png"
+    },
+    {
+      "Id": "C:\\Users\\Farmacias DJES\\source\\repos\\WebApplicationFiles\\WebApplicationFiles\\wwwroot\\uploads\\20250228181227763.png",
+      "PackagePath": "staticwebassets\\uploads\\20250228181227763.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplicationFiles.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
